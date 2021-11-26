@@ -1,0 +1,26 @@
+{
+  "name": "prof-in-github",
+  "version": "1.0.0",
+  "description": "This is a nodejs project for testing travis ci in github",
+  "main": "sum.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MohammadmehdiKhani/prof-in-github.git"
+  },
+  "keywords": [
+    "jtest",
+    "travisci"
+  ],
+  "author": "MohammadmehdiKhani",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MohammadmehdiKhani/prof-in-github/issues"
+  },
+  "homepage": "https://github.com/MohammadmehdiKhani/prof-in-github#readme",
+  "devDependencies": {
+    "jest": "^27.3.1"
+  }
+}
